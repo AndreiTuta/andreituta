@@ -2,33 +2,24 @@
 
 <br/>
 
-### About me:
+## About me:
 ---
 
-* Software developer @[aeroparker]() <img src="https://img.icons8.com/ultraviolet/16/000000/paper-plane.png"/>
+* Software developer @[aeroparker](aeroparker) <img src="https://img.icons8.com/ultraviolet/16/000000/paper-plane.png"/>
 * I draw SVG images <img src="https://img.icons8.com/color/16/000000/inkscape.png"/>
 * Avid reader <img src="https://img.icons8.com/color/16/000000/book-stack.png"/> and writer <img src="https://img.icons8.com/dusk/16/000000/hand-with-pen.png"/>
 <br/>
 
-### I work with 
+## I work with 
 ---
 
-<img src="https://img.icons8.com/officel/32/000000/java-eclipse.png"/>  
-<img src="https://img.icons8.com/color/32/000000/tomcat.png"/>
-<img src="https://img.icons8.com/color/32/000000/spring-logo.png"/>    
-<img src="https://img.icons8.com/dusk/32/000000/javascript.png"/>
-<img src="https://img.icons8.com/dusk/32/000000/python.png"/>      
-<img src="https://img.icons8.com/dusk/32/000000/docker.png"/>
-<img src="https://img.icons8.com/color/32/000000/virtualbox.png"/>
-<img src="https://img.icons8.com/color/32/000000/amazon-web-services.png"/>
-<img src="https://img.icons8.com/color/32/000000/selenium-test-automation.png"/>
+<img src="https://img.icons8.com/officel/32/000000/java-eclipse.png"/><img src="https://img.icons8.com/color/32/000000/tomcat.png"/><img src="https://img.icons8.com/color/32/000000/spring-logo.png"/><img src="https://img.icons8.com/dusk/32/000000/javascript.png"/><img src="https://img.icons8.com/dusk/32/000000/python.png"/><img src="https://img.icons8.com/dusk/32/000000/docker.png"/><img src="https://img.icons8.com/color/32/000000/virtualbox.png"/><img src="https://img.icons8.com/color/32/000000/amazon-web-services.png"/><img src="https://img.icons8.com/color/32/000000/selenium-test-automation.png"/>
 
-### 
 
 <br/>
 
 
-### Projects
+## Projects
 ---
  
 * reflect - Spring REST backend project for Reflect.
@@ -38,7 +29,7 @@
 
 <br/>
 
-### Contact me:
+## Contact me:
 ---
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](linkedin)
 [<img src="https://img.icons8.com/color/48/000000/email.png"/>](email)
@@ -57,3 +48,4 @@
 [linkedin]: https://www.linkedin.com/in/andreituta
 [email]: <fake@example.com>
 [blog]: https://www.github.com/andreituta/andreituta.github.io
+[aeroparker]: https://www.aeroparker.com/
