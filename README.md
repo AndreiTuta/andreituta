@@ -1,6 +1,4 @@
-### Hi, I'm Andrei 👋
-
-<br/>
+# Hi, I'm Andrei 👋
 
 ## About me:
 ---
