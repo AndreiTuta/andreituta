@@ -5,7 +5,7 @@
 ## About me:
 ---
 
-* Software developer at Aeroparker <img src="https://img.icons8.com/ultraviolet/16/000000/paper-plane.png"/>
+* Software developer @[aeroparker][aeroparker] <img src="https://img.icons8.com/ultraviolet/16/000000/paper-plane.png"/>
 * I draw SVG images <img src="https://img.icons8.com/color/16/000000/inkscape.png"/>
 * Avid reader <img src="https://img.icons8.com/color/16/000000/book-stack.png"/> and writer <img src="https://img.icons8.com/dusk/16/000000/hand-with-pen.png"/>
 <br/>
@@ -31,9 +31,9 @@
 
 ## Contact me:
 ---
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](linkedin)
-[<img src="https://img.icons8.com/color/48/000000/email.png"/>](email)
-[<img src="https://img.icons8.com/color/48/000000/blog.png"/>](blog)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
+[<img src="https://img.icons8.com/color/48/000000/email.png"/>][email]
+[<img src="https://img.icons8.com/color/48/000000/blog.png"/>][blog]
 
 
 <br/>
