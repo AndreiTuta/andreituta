@@ -17,7 +17,8 @@
 
 ## Projects
  
-* reflect - Spring REST backend project for Reflect
+* reflect - Spring REST backend project for Reflect - meditation tool
+* bach - Spring REST backend project for Bach - an online Soundlcould client
 * coinbase - Python flask and Jinja crypto currency value and related news client
 * chart-js - Dashboard system for monitoring data using chart.js 
 * kaggle 
@@ -40,6 +41,6 @@
 -->
 
 [linkedin]: https://www.linkedin.com/in/andreituta
-[email]: <fake@example.com>
+[email]: <tuta.andrei96@gmail.com>
 [blog]: https://www.github.com/andreituta/andreituta.github.io
 [aeroparker]: https://www.aeroparker.com/
