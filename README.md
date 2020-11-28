@@ -9,7 +9,16 @@
 
 ## I work with 
 
-<img src="https://img.icons8.com/officel/32/000000/java-eclipse.png"/><img src="https://img.icons8.com/color/32/000000/tomcat.png"/><img src="https://img.icons8.com/color/32/000000/spring-logo.png"/><img src="https://img.icons8.com/dusk/32/000000/javascript.png"/><img src="https://img.icons8.com/dusk/32/000000/python.png"/><img src="https://img.icons8.com/dusk/32/000000/docker.png"/><img src="https://img.icons8.com/color/32/000000/virtualbox.png"/><img src="https://img.icons8.com/color/32/000000/amazon-web-services.png"/><img src="https://img.icons8.com/color/32/000000/selenium-test-automation.png"/>
+<img src="https://img.icons8.com/officel/32/000000/java-eclipse.png"/>
+<img src="https://img.icons8.com/color/32/000000/tomcat.png"/>
+<img src="https://img.icons8.com/color/32/000000/spring-logo.png"/>
+<img src="https://img.icons8.com/dusk/32/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/32/000000/typescript.png"/>
+<img src="https://img.icons8.com/dusk/32/000000/python.png"/>
+<img src="https://img.icons8.com/dusk/32/000000/docker.png"/>
+<img src="https://img.icons8.com/color/32/000000/virtualbox.png"/>
+<img src="https://img.icons8.com/color/32/000000/amazon-web-services.png"/>
+<img src="https://img.icons8.com/color/32/000000/selenium-test-automation.png"/>
 
 
 <br/>
