@@ -3,8 +3,9 @@
 ## About me:
 
 * Software developer @[aeroparker][aeroparker] <img src="https://img.icons8.com/ultraviolet/16/000000/paper-plane.png"/>
+* Always up to learn something new
 * I draw SVG images <img src="https://img.icons8.com/color/16/000000/inkscape.png"/>
-* Avid reader <img src="https://img.icons8.com/color/16/000000/book-stack.png"/> and writer <img src="https://img.icons8.com/dusk/16/000000/hand-with-pen.png"/>
+* Avid reader and writer<img src="https://img.icons8.com/color/16/000000/book-stack.png"/>
 <br/>
 
 ## I work with 
@@ -17,11 +18,11 @@
 
 ## Projects
  
-* reflect - Spring REST backend project for Reflect - meditation tool
-* bach - Spring REST backend project for Bach - an online Soundlcould client
+* reflect - Spring REST meditation tool
+* bach - Spring REST backend project for Bach - an online Soundlclould client (discontinued)
 * coinbase - Python flask and Jinja crypto currency value and related news client
 * chart-js - Dashboard system for monitoring data using chart.js 
-* kaggle 
+* kaggle challenges
 
 <br/>
 
@@ -32,13 +33,8 @@
 
 
 <br/>
-
-
-
- <!-- 
 [![andreituta's github stats](https://github-readme-stats.vercel.app/api?username=andreituta&count_private=true&show_icons=true)](https://github.com/andreituta)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreituta)](https://github.com/andreituta)
--->
 
 [linkedin]: https://www.linkedin.com/in/andreituta
 [email]: <tuta.andrei96@gmail.com>
