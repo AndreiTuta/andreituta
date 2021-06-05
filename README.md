@@ -33,8 +33,6 @@
 
 
 <br/>
-[![andreituta's github stats](https://github-readme-stats.vercel.app/api?username=andreituta&count_private=true&show_icons=true)](https://github.com/andreituta)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreituta)](https://github.com/andreituta)
 
 [linkedin]: https://www.linkedin.com/in/andreituta
 [email]: <tuta.andrei96@gmail.com>
