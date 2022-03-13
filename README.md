@@ -1,7 +1,5 @@
 # Hi, I'm Andrei 👋
 
-## About me:
-
 * Software developer <img src="https://img.icons8.com/ios/16/000000/settings-3.png"/>
 * Always up to learn new technologies <img src="https://img.icons8.com/color/16/000000/blunt-bulb.png"/>
 * In my spare time, I draw manga characters and SVG images <img src="https://img.icons8.com/color/16/000000/inkscape.png"/>
@@ -18,22 +16,18 @@
 
 ## Latest Projects
  
-* reflect - Spring Maven REST meditation tool
-* coinbase - Python Flask and Jinja crypto currency value and related news client
-* chart-js - Dashboard system for monitoring data using chart.js
-* onion - simple/strong password generator 
-* pirate-island - SQL tutorial project
-* Kaggle challenges
+* reflect - Spring Maven REST meditation tool. Paired with a Flutter frontend.
+* [dash](https://github.com/AndreiTuta/dash-crypto) - Python Numpy and Dash crypto currency value and related news dashboard.
+* [rightmove_scrapper](https://github.com/AndreiTuta/rightmove_scrapper) - Python automation to scrap Rightmove for properties.
+* LimeMS -Flask OAS generated API for mocking backend functionality of a moodle like system.
 
 [![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreituta&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-## Contact me:
+## Get in touch:
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
 [<img src="https://img.icons8.com/color/48/000000/email.png"/>][email]
-[<img src="https://img.icons8.com/color/48/000000/blog.png"/>][blog]
 
 [linkedin]: https://www.linkedin.com/in/andreituta
-[email]: <mailto:tuta.andrei96@gmail.com>
-[blog]: https://www.github.com/andreituta/andreituta.github.io
+[email]: <mailto:andrei.tuta@atdev.uk>
